@@ -47,7 +47,7 @@ SPAM_WINDOW_SECONDS = 5
             "cplayforce",
             "cvplayforce",
         ],
-        prefixes=["/", "!", "%", "", "@", "#"],
+        prefixes=["/oynat", "/voynat", "%", "", "@", "#"],
     )
     & filters.group
     & ~BANNED_USERS

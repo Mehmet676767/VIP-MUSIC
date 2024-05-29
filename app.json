@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐈𝐃 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "14050586",
+        "value": "20584104",
         "required": true
       },
       "API_HASH": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "42a60d9c657b106370c79bb0a8ac560c",
+        "value": "f325ee578444d70ad2d02b0673f94d3a",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "𝐆𝐄𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐅𝐑𝐎𝐌 𝐁𝐎𝐓 𝐅𝐀𝐓𝐇𝐄𝐑",
-        "value": "",
+        "value": "7123283070:AAH9kkVtrBbky4zkCXpwhgEP6suzr-_yerg",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃, 𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐌𝐎𝐑𝐄 𝐏𝐄𝐑𝐒𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐆𝐈𝐕𝐄𝐈𝐍𝐆 𝐒𝐏𝐀𝐂𝐄 𝐀𝐅𝐓𝐄𝐑 𝐎𝐍𝐄 𝐈𝐃.",
-        "value": "1808943146",
+        "value": "7036733368",
         "required": true
       },
       "STRING_SESSION": {
@@ -44,7 +44,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐂𝐂. 𝐀𝐏𝐈 𝐊𝐄𝐘, 𝐈𝐅 𝐃𝐎𝐍𝐓 𝐊𝐍𝐎𝐖 𝐓𝐇𝐈𝐒 𝐓𝐇𝐄𝐍 𝐋𝐄𝐀𝐕𝐄 𝐓𝐇𝐈𝐒 𝐋𝐈𝐍𝐄 𝐁𝐋𝐀𝐍𝐊",
-        "value": "",
+        "value": "BAFcE2IAo--xssx1Q0k0Xyw09ZwnGmzN5IfkN4qqFpiJ6YF9Uv_fX8x2tTOKJ71ZOauFU8gNA-lhJ6kdR639mcHV-Kc75WYBXenpPjS9kBwHN71aV0X4LiZxfdCMMkqvCWMYAe95LIMDscsJqn2U9pq_hz2sd8NzqIVnB442bi1Qlo2OfnNcypWGjS5IhWl0YCM4auQm4FHfxjfcKLqOL8uha4vX1jRCWJjcEsGR6LQldfqw0BCfl4IdcS7ewC76C0vVj_esgmTpoW0aGQdqcZNyJCgmPCPjuSYDF-gy9nQ1dKSm4YfH669pLJ6gV5yIzMwRQZ-8NlrGpOljyHRvW65Y9myVWAAAAAGjbAe4AA",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -69,7 +69,7 @@
       },
       "LOGGER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐖𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐋𝐖𝐀𝐘𝐒 𝐒𝐓𝐀𝐘 𝐀𝐃𝐌𝐈𝐍 (𝐈𝐃 𝐌𝐔𝐒𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 -100).",
-        "value": "",
+        "value": "-1002071841734",
         "required": true
       }
     },
